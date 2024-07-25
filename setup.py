@@ -8,3 +8,4 @@ setup(
     install_requires=["huggingface_hub","langchain","streamlit","python-dotenv","PyPDF2"],
     packages=find_packages()
 )
+
