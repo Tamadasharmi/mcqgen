@@ -1,0 +1,52 @@
+{
+    "1": {
+        "question": "multiple choice question-1",
+        "options": {
+            "a": "1st option",
+            "b": "2nd option",
+            "c": "3rd option",
+            "d": "4th option"
+        },
+        "correct": "correct option"
+    },
+    "2": {
+        "question": "multiple choice question-2",
+        "options": {
+            "a": "1st option",
+            "b": "2nd option",
+            "c": "3rd option",
+            "d": "4th option"
+        },
+        "correct": "correct option"
+    },
+    "3": {
+        "question": "multiple choice question-3",
+        "options": {
+            "a": "1st option",
+            "b": "2nd option",
+            "c": "3rd option",
+            "d": "4th option"
+        },
+        "correct": "correct option"
+    },
+    "4": {
+        "question": "multiple choice question-4",
+        "options": {
+            "a": "1st option",
+            "b": "2nd option",
+            "c": "3rd option",
+            "d": "4th option"
+        },
+        "correct": "correct option"
+    },
+    "5": {
+        "question": "multiple choice question-5",
+        "options": {
+            "a": "1st option",
+            "b": "2nd option",
+            "c": "3rd option",
+            "d": "4th option"
+        },
+        "correct": "correct option"
+    }
+}
