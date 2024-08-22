@@ -42,7 +42,7 @@ with open(json_path,'r') as file:
     RESPONSE_JSON=json.load(file)
 
 #Title for app
-st.title("MCQ-GEN with Langchain and Mistral-7b-2-bit")
+st.title("Quizzing")
 #Creating a form
 with st.form("User_inputs"):
     #File_upload
